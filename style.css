@@ -117,6 +117,7 @@ div.campo {
     border-radius: 8px;
     box-sizing: border-box;
     margin: auto;
+    box-shadow: -1px 0px 2px rgba(0, 0, 0, 0.144);
 }
 
 .botao {
