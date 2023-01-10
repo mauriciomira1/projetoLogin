@@ -131,8 +131,8 @@ div.campo {
     color: #71A89D;
     text-decoration: none;
     height: 40px;
+    padding-top: 8px;
     cursor: pointer;
-    padding-top: 7px;
     margin-top: 5px;
 }
 
