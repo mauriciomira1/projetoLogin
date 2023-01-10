@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+/* Paleta de cores_
+Rosa: #DB876D
+Amarelo: #FAC957
+Rosa claro: #F5DDD5
+Verde claro: #71A89D
+Verde escuro: #103D3B
+*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-image: linear-gradient(#71A89D, #F5DDD5);
+    height: 100vh;
+    width: 100vw;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 0.8em;
+    margin: 6px 0;
+}
+
+div#telalogin {
+    display: inline-block;
+    background-color: white;
+    width: 300px;
+    padding: 10px;
+}
+
+div#imglogin img {
+    display: inline-block;
+    width: 300px;
+}
+
+main {
+/*     display: block; */
+    margin: center;
+    width: 50vw;
+}
